@@ -9,11 +9,11 @@
 - Also adding to this learning with Code With Mosh full suite
 
   ## Portfolio
-  [Weatherly - a weather web application](https://github.com/KernowPabloUK/Weatherly)
+  [Weatherly - a weather web application](kernowpablouk.github.io/Weatherly/) - [Repo link](https://github.com/KernowPabloUK/Weatherly)
   
-  [Beacon | Mental Health Awareness - a mental health informational website](https://github.com/KernowPabloUK/Beacon-Mental-Health-Awareness)
+  [Beacon | Mental Health Awareness - a mental health informational website](https://kernowpablouk.github.io/Beacon-Mental-Health-Awareness/) - [Repo link](https://github.com/KernowPabloUK/Beacon-Mental-Health-Awareness)
   
-  [Matchy Matchy - a JavaScript card flip game built for fun](https://github.com/KernowPabloUK/card-match-game)
+  [Matchy Matchy - a JavaScript card flip game built for fun](https://kernowpablouk.github.io/card-match-game/) - [Repo link](https://github.com/KernowPabloUK/card-match-game)
 
   More in development - check back for updates!
 
