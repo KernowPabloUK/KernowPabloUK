@@ -10,7 +10,9 @@
 
   ## Portfolio
   [Weatherly - a weather web application](https://github.com/KernowPabloUK/Weatherly)
+  
   [Beacon | Mental Health Awareness - a mental health informational website](https://github.com/KernowPabloUK/Beacon-Mental-Health-Awareness)
+  
   [Matchy Matchy - a JavaScript card flip game built for fun](https://github.com/KernowPabloUK/card-match-game)
 
   More in development - check back for updates!
