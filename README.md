@@ -9,6 +9,10 @@
 - Also adding to this learning with Code With Mosh full suite
 
   ## Portfolio
+  [Little Foodie - a full stack baby weaning web application](https://little-foodie-3451586f5ac7.herokuapp.com/) - [Repo link](https://github.com/KernowPabloUK/little-foodie)
+  
+  [Countrymen Volleyball - a web site for Countrymen Volleyball Club](https://countrymenvolleyball.co.uk/) - [Repo link](https://github.com/KernowPabloUK/countymen-volleyball-club)
+  
   [Weatherly - a weather web application](https://kernowpablouk.github.io/Weatherly/) - [Repo link](https://github.com/KernowPabloUK/Weatherly)
   
   [Beacon | Mental Health Awareness - a mental health informational website](https://kernowpablouk.github.io/Beacon-Mental-Health-Awareness/) - [Repo link](https://github.com/KernowPabloUK/Beacon-Mental-Health-Awareness)
