@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Paul,
-- 🔭 I’m currently working on ... my Portfolio webpage and projects for Code Institute
+- 🔭 I’m currently working on ... my Portfolio webpage and a bespoke website for TEDxTruro
 - 🌱 I’m currently learning ... HTML / CSS / Bootstrap / JavaScript / Python / PostgreSQL / Django
 
 ## About me
