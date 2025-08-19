@@ -1,11 +1,12 @@
 ## Hi there 👋 I'm Paul,
 - 🔭 I’m currently working on ... my Portfolio webpage and a bespoke website for TEDxTruro
-- 🌱 I’m currently learning ... HTML / CSS / Bootstrap / JavaScript / Python / PostgreSQL / Django
+- 🌱 I’m currently learning ... HTML / CSS / Bootstrap / JavaScript / Python / PostgreSQL / Django / C++
+- Currently touring Europe with Family, making small commits where possible!
 
 ## About me
 - 10+ years experience in Accounting & Finance
-- 2 years as a Full Stack Software Engineer in the Swiss Pensions domain (Second Pillar) working with .Net Framework -- C# / Microsoft SQL Server / ASP.net / TFS
-- Currently studying with Code Institute on their Full Stack Developer Bootcamp
+- 2 years as a Full Stack Software Engineer in the Swiss Pensions domain (Second Pillar) working with .Net Framework -- C# / Microsoft SQL Server / ASP.net / Blazor / TFS
+- Recently completed Code Institute's Full Stack Developer Bootcamp
 - Also adding to this learning with Code With Mosh full suite
 
   ## Portfolio
