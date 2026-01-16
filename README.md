@@ -9,7 +9,7 @@
 - Also adding to this learning with Code With Mosh full suite, The Odin Project & freeCodeCamp
 
   ## Portfolio
-  [TEDxTruro - a new website for the TEDxTruro](https://tedxtruro.com/) - [Repo link](https://github.com/KernowPabloUK/TEDxTruro)
+  [TEDxTruro - a new website for TEDxTruro](https://tedxtruro.com/) - [Repo link](https://github.com/KernowPabloUK/TEDxTruro)
   
   [Little Foodie - a full stack baby weaning web application](https://little-foodie-3451586f5ac7.herokuapp.com/) - [Repo link](https://github.com/KernowPabloUK/little-foodie)
   
