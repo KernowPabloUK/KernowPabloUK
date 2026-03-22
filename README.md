@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Paul,
-- 🔭 I’m currently working on ... a website for Ma Y Be Bachata Cornwall
+- 🔭 I’m currently working on ... a website for Ma Y Be Bachata Cornwall & frequent updates to [TEDxTruro](https://tedxtruro.com/)
 - 🌱 I’m currently learning and updating my training on ... HTML / CSS / JavaScript / React / C++
 
 ## About me
